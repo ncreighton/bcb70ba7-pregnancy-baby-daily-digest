@@ -1,2 +1,34 @@
-# bcb70ba7-pregnancy-baby-daily-digest
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Pregnancy &amp; Baby Daily Digest And Alerts — fully configured and ready to use - Sl
+# Pregnancy & Baby Daily Digest and Alerts Telegram Bot
+
+Curated daily updates, trend alerts, and personalized notifications for Pregnancy & Baby professionals. Stay informed without information overload.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ9AT8v5cYI3lmavOcZK3k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ9AT8v5cYI3lmavOcZK3k)
+
